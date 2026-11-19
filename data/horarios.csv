@@ -1,0 +1,103 @@
+docente;curso;dia;hi;hf;aula
+DOC-101;Desarrollo Web Integrado;MONDAY;08:00;10:00;A101
+DOC-101;Inteligencia Artificial;TUESDAY;08:00;10:00;D105
+DOC-101;Arquitectura de Software;WEDNESDAY;10:00;12:00;B204
+DOC-101;Taller de Programación Web;FRIDAY;14:00;16:00;C302
+DOC-102;Base de Datos II;MONDAY;10:00;12:00;E201
+DOC-102;Sistemas Operativos;MONDAY;14:00;16:00;F305
+DOC-103;Calidad de Software;THURSDAY;08:00;10:00;G102
+DOC-103;Pruebas de Software (QA);FRIDAY;10:00;12:00;H203
+DOC-104;Sistemas Distribuidos;TUESDAY;14:00;16:00;I301
+DOC-104;Seguridad Informática;THURSDAY;16:00;18:00;J402
+DOC-105;Gestión de Proyectos TI;WEDNESDAY;14:00;16:00;A205
+DOC-105;Inteligencia de Negocios;SATURDAY;09:00;11:00;B108
+DOC-106;Ingeniería de Software I (Sec. 106A);MONDAY;07:00;09:00;A101
+DOC-106;Redes y Comunicaciones I (Sec. 106B);WEDNESDAY;12:00;14:00;F102
+DOC-107;Estructura de Datos y Algoritmos (Sec. 107A);TUESDAY;07:00;09:00;B103
+DOC-107;Redes y Comunicaciones II (Sec. 107B);THURSDAY;12:00;14:00;G104
+DOC-108;Programación Orientada a Objetos (Sec. 108A);WEDNESDAY;07:00;09:00;C105
+DOC-108;Base de Datos I (Sec. 108B);FRIDAY;12:00;14:00;H106
+DOC-109;Análisis y Diseño de Sistemas (Sec. 109A);THURSDAY;07:00;09:00;D107
+DOC-109;Estadística Aplicada a la Ingeniería (Sec. 109B);SATURDAY;12:00;14:00;I108
+DOC-110;Desarrollo de Aplicaciones Móviles (Sec. 110A);FRIDAY;07:00;09:00;E109
+DOC-110;Investigación de Operaciones (Sec. 110B);MONDAY;12:00;14:00;J110
+DOC-111;Computación en la Nube (Sec. 111A);SATURDAY;07:00;09:00;F111
+DOC-111;Ingeniería Económica (Sec. 111B);TUESDAY;12:00;14:00;A112
+DOC-112;Ingeniería de Requerimientos (Sec. 112A);MONDAY;09:30;11:30;G113
+DOC-112;Cálculo Aplicado a la Computación (Sec. 112B);WEDNESDAY;14:30;16:30;B114
+DOC-113;Matemática Discreta (Sec. 113A);TUESDAY;09:30;11:30;H115
+DOC-113;Álgebra Lineal Numérica (Sec. 113B);THURSDAY;14:30;16:30;C116
+DOC-114;Sistemas de Información Empresarial (Sec. 114A);WEDNESDAY;09:30;11:30;I117
+DOC-114;Sistemas Digitales (Sec. 114B);FRIDAY;14:30;16:30;D118
+DOC-115;Fundamentos de Programación (Sec. 115A);THURSDAY;09:30;11:30;J119
+DOC-115;Patrones de Diseño de Software (Sec. 115B);SATURDAY;14:30;16:30;E120
+DOC-116;Arquitectura de Computadoras (Sec. 116A);FRIDAY;09:30;11:30;A121
+DOC-116;Seguridad en Aplicaciones Web (Sec. 116B);MONDAY;14:30;16:30;F122
+DOC-117;Gestión de Servicios de TI (Sec. 117A);SATURDAY;09:30;11:30;B123
+DOC-117;Calidad y Métricas de Software (Sec. 117B);TUESDAY;14:30;16:30;G124
+DOC-118;Auditoría de Sistemas (Sec. 118A);MONDAY;12:00;14:00;C125
+DOC-118;Arquitectura Orientada a Servicios (Sec. 118B);WEDNESDAY;17:00;19:00;H126
+DOC-119;Minería de Datos (Sec. 119A);TUESDAY;12:00;14:00;D127
+DOC-119;Aprendizaje Automático (Sec. 119B);THURSDAY;17:00;19:00;I128
+DOC-120;Automatización de Pruebas (Sec. 120A);WEDNESDAY;12:00;14:00;E129
+DOC-120;Aprendizaje Profundo (Sec. 120B);FRIDAY;17:00;19:00;J130
+DOC-121;DevOps y Entrega Continua (Sec. 121A);THURSDAY;12:00;14:00;F131
+DOC-121;Programación Funcional (Sec. 121B);SATURDAY;17:00;19:00;A132
+DOC-122;Desarrollo Frontend Avanzado (Sec. 122A);FRIDAY;12:00;14:00;G133
+DOC-122;Programación Concurrente (Sec. 122B);MONDAY;17:00;19:00;B134
+DOC-123;Backend con Microservicios (Sec. 123A);SATURDAY;12:00;14:00;H135
+DOC-123;Herramientas de Desarrollo Ágil (Sec. 123B);TUESDAY;17:00;19:00;C136
+DOC-124;Teoría de Compiladores (Sec. 124A);MONDAY;14:30;16:30;I137
+DOC-124;Gestión de Configuraciones y Versiones (Sec. 124B);WEDNESDAY;19:30;21:30;D138
+DOC-125;Integración de Aplicaciones (Sec. 125A);TUESDAY;14:30;16:30;J139
+DOC-125;Administración de Redes Cisco (Sec. 125B);THURSDAY;19:30;21:30;E140
+DOC-126;Diseño de Interfaces UX/UI (Sec. 126A);WEDNESDAY;14:30;16:30;A141
+DOC-126;Forense Digital (Sec. 126B);FRIDAY;19:30;21:30;F142
+DOC-127;Algoritmos Paralelos y Distribuidos (Sec. 127A);THURSDAY;14:30;16:30;B143
+DOC-127;Normativa y Derecho Informático (Sec. 127B);SATURDAY;19:30;21:30;G144
+DOC-128;Gestión de Base de Datos NoSQL (Sec. 128A);FRIDAY;14:30;16:30;C145
+DOC-128;Comercio Electrónico (Sec. 128B);MONDAY;19:30;21:30;H146
+DOC-129;Transformación Digital (Sec. 129A);SATURDAY;14:30;16:30;D147
+DOC-129;Sistemas ERP y CRM (Sec. 129B);TUESDAY;19:30;21:30;I148
+DOC-130;Ingeniería Web Moderna (Sec. 130A);MONDAY;17:00;19:00;E149
+DOC-130;Ingeniería de Usabilidad (Sec. 130B);WEDNESDAY;07:00;09:00;J150
+DOC-131;Simulación de Sistemas (Sec. 131A);TUESDAY;17:00;19:00;F151
+DOC-131;Computación Gráfica (Sec. 131B);THURSDAY;07:00;09:00;A152
+DOC-132;Big Data y Analítica (Sec. 132A);WEDNESDAY;17:00;19:00;G153
+DOC-132;Realidad Aumentada y Virtual (Sec. 132B);FRIDAY;07:00;09:00;B154
+DOC-133;Ética Profesional en TI (Sec. 133A);THURSDAY;17:00;19:00;H155
+DOC-133;Blockchain y Contratos Inteligentes (Sec. 133B);SATURDAY;07:00;09:00;C156
+DOC-134;Sistemas Embebidos e IoT (Sec. 134A);FRIDAY;17:00;19:00;I157
+DOC-134;Computación Cuántica Introductoria (Sec. 134B);MONDAY;07:00;09:00;D158
+DOC-135;Robótica Computacional (Sec. 135A);SATURDAY;17:00;19:00;J159
+DOC-135;Bioinformática Aplicada (Sec. 135B);TUESDAY;07:00;09:00;E160
+DOC-136;Visión por Computadora (Sec. 136A);MONDAY;19:30;21:30;A161
+DOC-136;Sistemas de Tiempo Real (Sec. 136B);WEDNESDAY;09:30;11:30;F162
+DOC-137;Procesamiento de Lenguaje Natural (Sec. 137A);TUESDAY;19:30;21:30;B163
+DOC-137;Telecomunicaciones Avanzadas (Sec. 137B);THURSDAY;09:30;11:30;G164
+DOC-138;Ciberseguridad Defensiva (Sec. 138A);WEDNESDAY;19:30;21:30;C165
+DOC-138;Sistemas de Soporte a Decisiones (Sec. 138B);FRIDAY;09:30;11:30;H166
+DOC-139;Hacking Ético (Sec. 139A);THURSDAY;19:30;21:30;D167
+DOC-139;Optimización Combinatoria (Sec. 139B);SATURDAY;09:30;11:30;I168
+DOC-140;Redes Definidas por Software (Sec. 140A);FRIDAY;19:30;21:30;E169
+DOC-140;Teoría de Autómatas y Lenguajes (Sec. 140B);MONDAY;09:30;11:30;J170
+DOC-141;Arquitectura Empresarial (Sec. 141A);SATURDAY;19:30;21:30;F171
+DOC-141;Ingeniería del Conocimiento (Sec. 141B);TUESDAY;09:30;11:30;A172
+DOC-142;Gobierno de Datos y TI (Sec. 142A);MONDAY;07:00;09:00;G173
+DOC-142;Gestión del Cambio Tecnológico (Sec. 142B);WEDNESDAY;12:00;14:00;B174
+DOC-143;Administración de Servidores Linux (Sec. 143A);TUESDAY;07:00;09:00;H175
+DOC-143;Continuidad del Negocio en TI (Sec. 143B);THURSDAY;12:00;14:00;C176
+DOC-144;Virtualización y Contenedores (Sec. 144A);WEDNESDAY;07:00;09:00;I177
+DOC-144;Arquitectura de Microfrontends (Sec. 144B);FRIDAY;12:00;14:00;D178
+DOC-145;Planeamiento Estratégico de TI (Sec. 145A);THURSDAY;07:00;09:00;J179
+DOC-145;Pruebas de Rendimiento y Carga (Sec. 145B);SATURDAY;12:00;14:00;E180
+DOC-146;Emprendimiento Tecnológico (Sec. 146A);FRIDAY;07:00;09:00;A181
+DOC-146;Observabilidad y Monitoreo (Sec. 146B);MONDAY;12:00;14:00;F182
+DOC-147;Metodologías Ágiles y Scrum (Sec. 147A);SATURDAY;07:00;09:00;B183
+DOC-147;Kubernetes en Producción (Sec. 147B);TUESDAY;12:00;14:00;G184
+DOC-148;Taller de Investigación Aplicada I (Sec. 148A);MONDAY;09:30;11:30;C185
+DOC-148;Data Warehousing y ETL (Sec. 148B);WEDNESDAY;14:30;16:30;H186
+DOC-149;Taller de Investigación Aplicada II (Sec. 149A);TUESDAY;09:30;11:30;D187
+DOC-149;Gobierno Electrónico (Sec. 149B);THURSDAY;14:30;16:30;I188
+DOC-150;Proyecto Integrador Final (Sec. 150A);WEDNESDAY;09:30;11:30;E189
+DOC-150;Seminario de Tesis en Ingeniería (Sec. 150B);FRIDAY;14:30;16:30;J190

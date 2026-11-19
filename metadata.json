@@ -1,0 +1,6 @@
+{
+  "name": "Cruce de Horarios Académicos",
+  "description": "Sistema interactivo de verificación de cruces de horarios, calendario semanal visual y gestión de reprogramaciones académicas con validación de intervalo mínimo, aula y disponibilidad estudiantil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
